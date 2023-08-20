@@ -1,0 +1,3 @@
+../Core/Src/motorDrive.c:18:6:motorDrive	16	static
+../Core/Src/motorDrive.c:25:6:motorUpDown	24	static
+../Core/Src/motorDrive.c:82:6:motorRightLeft	104	static
